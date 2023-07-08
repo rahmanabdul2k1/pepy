@@ -1,0 +1,282 @@
+CRITICAL - 2023-06-28 04:39:13 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Controllers\Home.php on line 30.
+ 1 APPPATH\Controllers\Home.php(30): count('10000')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 04:39:13 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Controllers\Home.php on line 30.
+ 1 APPPATH\Controllers\Home.php(30): count('10000')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-28 05:07:12 --> mysqli_sql_exception: Unknown column 'attr_property_name' in 'field list' in C:\xampp\htdocs\pepy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\pepy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `at...', 0)
+#1 C:\xampp\htdocs\pepy\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `at...')
+#2 C:\xampp\htdocs\pepy\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `at...')
+#3 C:\xampp\htdocs\pepy\system\Database\BaseBuilder.php(1801): CodeIgniter\Database\BaseConnection->query('INSERT INTO `at...', NULL, false)
+#4 C:\xampp\htdocs\pepy\system\Database\BaseBuilder.php(2192): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+#5 C:\xampp\htdocs\pepy\app\Controllers\Home.php(41): CodeIgniter\Database\BaseBuilder->insertBatch(Array)
+#6 C:\xampp\htdocs\pepy\system\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+#7 C:\xampp\htdocs\pepy\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\pepy\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pepy\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-06-28 05:07:12 --> Unknown column 'attr_property_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `attr_variation` (`attr_property_name`, `attr_property_price`)
+VALUES (\'Half Sleeve-S\',\'10\'), (\'Half Sleeve-M\',\'20\'), (\'Full Sleeve-S\',\'30\'), (\'Full Sleeve-M\',\'50\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `attr_variation` (`attr_property_name`, `attr_property_price`)
+VALUES (\'Half Sleeve-S\',\'10\'), (\'Half Sleeve-M\',\'20\'), (\'Full Sleeve-S\',\'30\'), (\'Full Sleeve-M\',\'50\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `attr_variation` (`attr_property_name`, `attr_property_price`)
+VALUES (\'Half Sleeve-S\',\'10\'), (\'Half Sleeve-M\',\'20\'), (\'Full Sleeve-S\',\'30\'), (\'Full Sleeve-M\',\'50\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1801): CodeIgniter\Database\BaseConnection->query('INSERT INTO `attr_variation` (`attr_property_name`, `attr_property_price`)
+VALUES (\'Half Sleeve-S\',\'10\'), (\'Half Sleeve-M\',\'20\'), (\'Full Sleeve-S\',\'30\'), (\'Full Sleeve-M\',\'50\')', null, false)
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2192): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+ 6 APPPATH\Controllers\Home.php(41): CodeIgniter\Database\BaseBuilder->insertBatch([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 05:08:29 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Controllers\Home.php on line 30.
+ 1 APPPATH\Controllers\Home.php(30): count(null)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 05:09:39 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Controllers\Home.php on line 30.
+ 1 APPPATH\Controllers\Home.php(30): count(null)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 06:32:13 --> Call to a member function insertID() on null
+in APPPATH\Controllers\Home.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 06:47:12 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 06:48:12 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 06:51:38 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 06:53:09 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 06:59:59 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->prodetails()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 07:48:52 --> Cannot use object of type mysqli as array
+in APPPATH\Views\index.php on line 158.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 4 APPPATH\Controllers\Home.php(19): view('index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 07:48:53 --> Cannot use object of type mysqli as array
+in APPPATH\Views\index.php on line 158.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 4 APPPATH\Controllers\Home.php(19): view('index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:06:29 --> Undefined variable $data
+in APPPATH\Views\index.php on line 159.
+ 1 APPPATH\Views\index.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 159)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:06:29 --> Undefined variable $data
+in APPPATH\Views\index.php on line 159.
+ 1 APPPATH\Views\index.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 159)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:06:36 --> Undefined array key "Pro ID"
+in APPPATH\Views\index.php on line 160.
+ 1 APPPATH\Views\index.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Pro ID"', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 160)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:06:36 --> Undefined array key "Pro ID"
+in APPPATH\Views\index.php on line 160.
+ 1 APPPATH\Views\index.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Pro ID"', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 160)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:06:36 --> Undefined array key "Pro ID"
+in APPPATH\Views\index.php on line 160.
+ 1 APPPATH\Views\index.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Pro ID"', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 160)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:07:22 --> Undefined array key "attr_variation_price "
+in APPPATH\Views\index.php on line 163.
+ 1 APPPATH\Views\index.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_variation_price "', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 163)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:07:23 --> Undefined array key "attr_variation_price "
+in APPPATH\Views\index.php on line 163.
+ 1 APPPATH\Views\index.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_variation_price "', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 163)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:07:35 --> Undefined variable $data
+in APPPATH\Views\index.php on line 165.
+ 1 APPPATH\Views\index.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 165)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:07:36 --> Undefined variable $data
+in APPPATH\Views\index.php on line 165.
+ 1 APPPATH\Views\index.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 165)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 10:07:46 --> Undefined array key "Pro ID"
+in APPPATH\Views\index.php on line 166.
+ 1 APPPATH\Views\index.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Pro ID"', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php', 166)
+ 2 [internal function]: CodeIgniter\View\View->{closure}([...])
+ 3 APPPATH\Views\index.php(167): array_filter([...], Object(Closure))
+ 4 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\index.php')
+ 5 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 7 APPPATH\Controllers\Home.php(15): view('index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 11:38:41 --> Cache unable to write to "C:\xampp\htdocs\pepy\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\pepy\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(694): cache()
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 11:38:41 --> Cache unable to write to "C:\xampp\htdocs\pepy\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\pepy\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(694): cache()
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 11:38:41 --> Cache unable to write to "C:\xampp\htdocs\pepy\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\pepy\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(694): cache()
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-28 11:38:42 --> Cache unable to write to "C:\xampp\htdocs\pepy\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\pepy\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(694): cache()
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

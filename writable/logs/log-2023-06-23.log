@@ -1,0 +1,237 @@
+CRITICAL - 2023-06-23 04:43:42 --> Undefined variable $attr_id
+in APPPATH\Views\property_details.php on line 2.
+ 1 APPPATH\Views\property_details.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $attr_id', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 2)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(34): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 04:46:40 --> Undefined variable $attr_id
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $attr_id', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(34): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 04:47:23 --> Undefined variable $attr_id
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $attr_id', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(34): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 04:48:37 --> Undefined variable $attr_id
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $attr_id', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(34): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 12:48:07 --> Undefined variable $value
+in APPPATH\Views\properties.php on line 9.
+ 1 APPPATH\Views\properties.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $value', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\properties.php', 9)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\properties.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('properties', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('properties', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->properties()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 12:49:06 --> Undefined variable $value
+in APPPATH\Views\properties.php on line 9.
+ 1 APPPATH\Views\properties.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $value', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\properties.php', 9)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\properties.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('properties', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('properties', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->properties()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:11:33 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:13:05 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:13:07 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:13:07 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:17:10 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:17:42 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:17:42 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:17:46 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:17:47 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:17:49 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:17:49 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:19:45 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:29:14 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:29:18 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:29:19 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+in APPPATH\Views\property_details.php on line 3.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 4 APPPATH\Controllers\Home.php(33): view('property_details', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:31:53 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 35.
+ 1 APPPATH\Controllers\Home.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:32:22 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 35.
+ 1 APPPATH\Controllers\Home.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-23 13:35:00 --> json_decode(): Argument #1 ($json) must be of type string, array given
+in APPPATH\Controllers\Home.php on line 36.
+ 1 APPPATH\Controllers\Home.php(36): json_decode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

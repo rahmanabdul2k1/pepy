@@ -1,0 +1,358 @@
+CRITICAL - 2023-06-24 06:18:30 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 06:18:30 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 06:18:31 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 06:18:31 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 06:18:32 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 06:18:32 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 06:18:32 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 08:57:27 --> Call to undefined function App\Controllers\permutations()
+in APPPATH\Controllers\Home.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:31:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:31:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:31:13 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:31:13 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:31:13 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:31:13 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:10 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:10 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:41:12 --> Undefined array key "attr_property_id"
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "attr_property_id"', 'C:\\xampp\\htdocs\\pepy\\app\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:13 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:13 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:14 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:14 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:14 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:14 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:14 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:14 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 09:57:14 --> Too few arguments to function generatePermutations(), 5 passed in C:\xampp\htdocs\pepy\app\Views\property_details.php on line 49 and exactly 6 expected
+in APPPATH\Views\property_details.php on line 10.
+ 1 APPPATH\Views\property_details.php(49): generatePermutations([...], [...], 0, [], [])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:26:40 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:26:40 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:26:41 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:26:41 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:27:07 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:27:07 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:27:07 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:27:07 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-24 11:28:30 --> Array to string conversion
+in APPPATH\Views\property_details.php on line 6.
+ 1 APPPATH\Views\property_details.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php', 6)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\pepy\\app\\Views\\property_details.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('property_details', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('property_details', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->property_details()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
